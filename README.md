@@ -1,7 +1,6 @@
-### Hi there 👋 im Juan Herrera, Frontend Developer
+## Hi there 👋 
 
-
-**1juanherrera/1juanherrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- My name is Juan Herrera, I'm from Colombia an I'm Full Stack Developer
 
 Here are some ideas to get you started:
 
