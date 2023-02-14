@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-- My name is Juan Herrera, I'm from Colombia an I'm Full Stack Developer
+- My name is Juan Herrera, I'm from Colombia and I'm Full Stack Developer
 
 Here are some ideas to get you started:
 
