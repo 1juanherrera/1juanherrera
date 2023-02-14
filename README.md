@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Herrera</h1>
-<h3 align="center">A Full Stack Developer from Colombia Passionate about the UI world, looking forward to continue learning new things and continue growing in this great world.</h3>
+<h3 align="center">A Full Stack Developer from Colombia Passionate UI, looking forward to continue learning new things and continue growing in this great world.</h3>
 
 - 🌱 I’m currently learning **React Native and PostgreSQL**
 
