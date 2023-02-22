@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Herrera</h1>
 <h3 align="center">A Full Stack Developer from Colombia, looking forward to continue learning new things and continue growing in this great world.</h3>
 
-- 🌱 I’m currently learning **React Native and PostgreSQL**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-juan-react.netlify.app/](https://portfolio-juan-react.netlify.app/)
 
