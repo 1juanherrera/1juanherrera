@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-juan-react.netlify.app/](https://portfolio-juan-react.netlify.app/)
 
-- 💬 Ask me about **ReactJS, Sass or NodeJS**
+- 💬 Ask me about **ReactJS, CSS or NodeJS**
 
 - 📫 How to reach me **juanherrera04502@gmail.com**
 
