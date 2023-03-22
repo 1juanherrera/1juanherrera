@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Native and PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-juan-react.netlify.app/](https://portfolio-juan-react.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-juan-react.netlify.app/](Portfolio)
 
 - 💬 Ask me about **ReactJS, CSS or NodeJS**
 
