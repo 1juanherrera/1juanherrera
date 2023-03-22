@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **React Native and PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [Portfolio](Portfolio](https://portfolio-juan-react.netlify.app/)
-
 - 💬 Ask me about **ReactJS, CSS or NodeJS**
 
 - 📫 How to reach me **juanherrera04502@gmail.com**
