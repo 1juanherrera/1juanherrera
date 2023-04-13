@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Juan Herrera</h1>
-<h3 align="center">A Full Stack Developer from Colombia Passionate about the UI world, looking forward to continue learning new things and continue growing in this great world.</h3>
+<h3 align="center">Desarrollador Full Stack de colombia, apasionado por el mundo UI, con muchas ganas de seguir aprendiendo cosas nuevas y seguir creciendo en este grandioso sector.</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 Actualmente estoy aprendiendo **React Native**
 
-- 💬 Ask me about **ReactJS, CSS or Python**
+- 💬 Pregúntame sobre **ReactJS, CSS or Python**
 
-- 📫 How to reach me **juanherrera04502@gmail.com**
+- 📫 Como contactarme **juanherrera04502@gmail.com**
 
-- ⚡Hobbies **Soccer⚽ and Videogames🎮**
+- ⚡Pasatiempos **Soccer⚽ and Videogames🎮**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
