@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan Herrera</h1>
+<h1 align="center">Hola 👋, soy Juan Herrera</h1>
 <h3 align="center">Desarrollador Full Stack de colombia, apasionado por el mundo UI, con muchas ganas de seguir aprendiendo cosas nuevas y seguir creciendo en este grandioso sector.</h3>
 
 - 🌱 Actualmente estoy aprendiendo **React Native**
