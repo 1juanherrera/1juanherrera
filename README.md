@@ -3,11 +3,11 @@
 
 - 🌱 Actualmente estoy aprendiendo **React Native**
 
-- 💬 Pregúntame sobre **ReactJS, CSS or Python**
+- 💬 Pregúntame sobre **ReactJS, CSS o Python**
 
 - 📫 Como contactarme **juanherrera04502@gmail.com**
 
-- ⚡Pasatiempos **Soccer⚽ and Videogames🎮**
+- ⚡Pasatiempos **Futbol⚽ y Videojuegos🎮**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
