@@ -7,7 +7,7 @@
 
 - 📫 Como contactarme **juanherrera04502@gmail.com**
 
-- ⚡Pasatiempos **Futbol⚽ y Videojuegos🎮**
+- ⚡Pasatiempos **Futbol⚽  y Videojuegos🎮**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
