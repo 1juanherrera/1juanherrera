@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Native and PostgreSQL**
 
-- 👨‍💻 All of my projects are available at https://my-portfolio-omega-beryl.vercel.app/
+- 👨‍💻 All of my projects are available at <a href="https://my-portfolio-omega-beryl.vercel.app/" target="blank" alt="MI PORTAFOLIO" />MI PORTAFOLIO</a>
 
 - 💬 Ask me about **ReactJS, Sass or NodeJS**
 
