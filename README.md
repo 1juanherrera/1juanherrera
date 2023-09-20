@@ -1,15 +1,15 @@
 <h1 align="center">Hola 👋, soy Juan Herrera</h1>
 <h3 align="center">Soy un desarrollador frontend radicado en colombia, con buenos conocimientos en backend, en manejo de motores de base de datos y apasionado por el mundo UI. Con muchas ganas de seguir aprendiendo cosas nuevas y seguir creciendo en este gran mundo TI.</h3>
 
-- 🌱 Actualmente estoy aprendiendo **React Native and PostgreSQL**
+- 🌱 Actualmente estoy aprendiendo **React Native y PostgreSQL**
 
 - 👨‍💻 Todos mis proyectos estan disponibles en <a href="https://my-portfolio-omega-beryl.vercel.app/" target="_blank" alt="MI PORTAFOLIO" />mi portafolio</a>
 
-- 💬 Pregúntame sobre **ReactJS, Sass or NodeJS**
+- 💬 Pregúntame sobre **ReactJS, Sass o NodeJS**
 
 - 📫 Como contactarme **juanherrera04502@gmail.com**
 
-- ⚡Aficiones **Soccer⚽ and Videogames🎮**
+- ⚡Aficiones **Soccer⚽ y Videogames🎮**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
