@@ -1,5 +1,5 @@
-# align="center">Hola 👋, soy Juan Herrera #
-### align="center">Soy un desarrollador frontend radicado en colombia, con buenos conocimientos en backend, en manejo de motores de base de datos y apasionado por el mundo UI. Con muchas ganas de seguir aprendiendo cosas nuevas y seguir creciendo en este gran mundo de la tecnología. ###
+# Hola 👋, soy Juan Herrera #
+### Soy un desarrollador frontend radicado en colombia, con buenos conocimientos en backend, en manejo de motores de base de datos y apasionado por el mundo UI. Con muchas ganas de seguir aprendiendo cosas nuevas y seguir creciendo en este gran mundo de la tecnología. ###
 
 - 🌱 Actualmente estoy aprendiendo **React Native y PostgreSQL**
 
