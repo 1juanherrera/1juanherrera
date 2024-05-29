@@ -8,7 +8,7 @@
 
 - 💬 Pregúntame sobre **ReactJS, Sass o NodeJS**
 
-- 📫 Como contactarme **juanherrera04502@gmail.com**
+- 📫 Como contactarme **juansebas751@gmail.com**
 
 - ⚡Aficiones **Soccer⚽ y Videogames🎮**
 
