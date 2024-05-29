@@ -6,7 +6,7 @@
 
 - 👨‍💻 Todos mis proyectos estan disponibles en <a href="https://my-portfolio-peach-omega-53.vercel.app" target="_blank" alt="MI PORTAFOLIO" />**mi portafolio**</a>
 
-- 💬 Pregúntame sobre **ReactJS, Sass o JavaScript**
+- 💬 Pregúntame sobre **ReactJS, SASS o JavaScript**
 
 - 📫 Como contactarme **juansebas751@gmail.com**
 
