@@ -4,7 +4,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **React Native y PostgreSQL**
 
-- 👨‍💻 Todos mis proyectos estan disponibles en <a href="[https://my-portfolio-omega-beryl.vercel.app/](https://my-portfolio-peach-omega-53.vercel.app)" target="_blank" alt="MI PORTAFOLIO" />mi portafolio</a>
+- 👨‍💻 Todos mis proyectos estan disponibles en <a href="(https://my-portfolio-peach-omega-53.vercel.app)" target="_blank" alt="MI PORTAFOLIO" />mi portafolio</a>
 
 - 💬 Pregúntame sobre **ReactJS, Sass o NodeJS**
 
