@@ -4,12 +4,6 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Automatizo+lo+que+otros+hacen+a+mano+%E2%9A%99%EF%B8%8F;n8n+%2B+ERPs+%2B+IA+%3D+procesos+sin+fricci%C3%B3n;TypeScript+%E2%80%A2+React+%E2%80%A2+Node+%E2%80%A2+WordPress;Construyendo+agentes+de+IA+%F0%9F%A4%96" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://my-portfolio-peach-omega-53.vercel.app"><img src="https://img.shields.io/badge/Portafolio-7F5AF0?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/juanherreramu%C3%B1oz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/1juanherrera2"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
@@ -23,6 +17,7 @@
 const juan = {
   rol: "Full Stack Developer · Automation & AI",
   ubicacion: "Colombia 🇨🇴",
+  trabajo: "Desarrollo e Innovación @ MERCO Grupo Logístico",
   especialidad: ["Automatización de procesos", "Integración con ERPs", "Agentes de IA"],
   stack: ["TypeScript", "React", "Node.js", "WordPress", "Python"],
   aprendiendo: ["NestJS", "Arquitecturas backend", "Ingeniería agéntica"],
