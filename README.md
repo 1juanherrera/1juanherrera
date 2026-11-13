@@ -1,6 +1,6 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="./banner.svg" alt="Juan Herrera — Full Stack Developer" width="100%" />
+  <img src="./header.svg" alt="Juan Herrera — Full Stack Developer" width="100%" />
 </p>
 
 <p align="center">
@@ -83,5 +83,5 @@ const juan = {
 
 <!-- ============ FOOTER ============ -->
 <p align="center">
-  <img src="./banner-footer.svg" alt="" width="100%" />
+  <img src="./footer.svg" alt="" width="100%" />
 </p>
