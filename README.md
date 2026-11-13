@@ -17,7 +17,6 @@
 const juan = {
   rol: "Full Stack Developer · Automation & AI",
   ubicacion: "Colombia 🇨🇴",
-  trabajo: "Desarrollo e Innovación @ MERCO Grupo Logístico",
   especialidad: ["Automatización de procesos", "Integración con ERPs", "Agentes de IA"],
   stack: ["TypeScript", "React", "Node.js", "WordPress", "Python"],
   aprendiendo: ["NestJS", "Arquitecturas backend", "Ingeniería agéntica"],
