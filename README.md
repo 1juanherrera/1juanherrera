@@ -19,7 +19,7 @@ const juan = {
   ubicacion: "Colombia",
   especialidad: ["Automatización de procesos", "Integración con ERPs", "Agentes de IA"],
   stack: ["TypeScript", "React", "Node.js", "WordPress", "Python"],
-  aprendiendo: ["NestJS", "Arquitecturas backend", "Ingeniería agéntica"],
+  aprendiendo: ["LangChain/LangGraph", "React Native", "GenAI"],
   aficiones: ["Fútbol", "Videojuegos"],
 };
 ```
