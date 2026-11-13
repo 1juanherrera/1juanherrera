@@ -1,0 +1,146 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="340" viewBox="0 0 1200 340">
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7F5AF0"/>
+      <stop offset="1" stop-color="#2CB67D"/>
+    </linearGradient>
+    <linearGradient id="brandText" gradientUnits="userSpaceOnUse" x1="330" y1="0" x2="615" y2="0">
+      <stop offset="0" stop-color="#9F7FFF"/>
+      <stop offset="1" stop-color="#2CB67D"/>
+    </linearGradient>
+    <linearGradient id="wire" gradientUnits="userSpaceOnUse" x1="742" y1="0" x2="1060" y2="0">
+      <stop offset="0" stop-color="#7F5AF0"/>
+      <stop offset="1" stop-color="#2CB67D"/>
+    </linearGradient>
+    <linearGradient id="nodeFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1C2230"/>
+      <stop offset="1" stop-color="#131820"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1B212B" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="fade" cx="0.72" cy="0.5" r="0.6">
+      <stop offset="0" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="gridMask"><rect width="1200" height="340" fill="url(#fade)"/></mask>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="8"/></filter>
+    <clipPath id="card"><rect x="1" y="1" width="1198" height="338" rx="18"/></clipPath>
+
+    <path id="p1" d="M742 90 C 806 90, 806 170, 868 170"/>
+    <path id="p2" d="M742 170 L 868 170"/>
+    <path id="p3" d="M742 250 C 806 250, 806 170, 868 170"/>
+    <path id="p4" d="M956 170 L 1060 170"/>
+
+    <style>
+      .eyebrow { font: 600 15px 'Fira Code','Cascadia Code',Consolas,monospace; fill: #2CB67D; letter-spacing: 1px; }
+      .name { font: 800 74px 'Segoe UI','Inter',Ubuntu,'Helvetica Neue',Arial,sans-serif; fill: #F0F3F6; letter-spacing: -2px; }
+      .role { font: 600 24px 'Segoe UI','Inter',Ubuntu,'Helvetica Neue',Arial,sans-serif; fill: #C9D1D9; }
+      .chip { font: 500 14px 'Fira Code','Cascadia Code',Consolas,monospace; fill: #C9D1D9; }
+      .lbl { font: 500 13px 'Fira Code','Cascadia Code',Consolas,monospace; fill: #8B949E; }
+      .lblMain { font: 700 14px 'Fira Code','Cascadia Code',Consolas,monospace; fill: #F0F3F6; }
+      .in { animation: rise .9s cubic-bezier(.2,.8,.2,1) both; }
+      .d1 { animation-delay: .1s } .d2 { animation-delay: .25s } .d3 { animation-delay: .4s } .d4 { animation-delay: .55s }
+      @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+      .pulse { animation: pulse 2.4s ease-out infinite; transform-origin: 912px 170px; }
+      @keyframes pulse { 0% { opacity: .55; transform: scale(1); } 100% { opacity: 0; transform: scale(1.35); } }
+    </style>
+  </defs>
+
+  <!-- Card -->
+  <g clip-path="url(#card)">
+    <rect width="1200" height="340" fill="#0D1117"/>
+    <rect width="1200" height="340" fill="url(#grid)" mask="url(#gridMask)"/>
+    <circle cx="180" cy="40" r="170" fill="#7F5AF0" opacity=".22" filter="url(#blur)"/>
+    <circle cx="1080" cy="320" r="170" fill="#2CB67D" opacity=".16" filter="url(#blur)"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="338" rx="18" fill="none" stroke="#30363D" stroke-width="2"/>
+  <rect x="64" y="1" width="220" height="2" fill="url(#brand)"/>
+
+  <!-- Left: identity -->
+  <text class="eyebrow in" x="64" y="88">// Hola, soy</text>
+  <text class="name in d1" x="60" y="160">Juan Herrera<tspan fill="#2CB67D">.</tspan></text>
+  <text class="role in d2" x="64" y="204">Full Stack Developer <tspan fill="#484F58">/</tspan> <tspan fill="url(#brandText)">Automation &amp; AI Engineer</tspan></text>
+
+  <g class="in d3">
+    <g transform="translate(64 236)">
+      <rect width="60" height="32" rx="16" fill="#161B22" stroke="#7F5AF0" stroke-opacity=".6"/>
+      <text class="chip" x="30" y="21" text-anchor="middle">n8n</text>
+    </g>
+    <g transform="translate(134 236)">
+      <rect width="68" height="32" rx="16" fill="#161B22" stroke="#7F5AF0" stroke-opacity=".6"/>
+      <text class="chip" x="34" y="21" text-anchor="middle">ERPs</text>
+    </g>
+    <g transform="translate(212 236)">
+      <rect width="118" height="32" rx="16" fill="#161B22" stroke="#5E88B8" stroke-opacity=".6"/>
+      <text class="chip" x="59" y="21" text-anchor="middle">Agentes IA</text>
+    </g>
+    <g transform="translate(340 236)">
+      <rect width="118" height="32" rx="16" fill="#161B22" stroke="#2CB67D" stroke-opacity=".6"/>
+      <text class="chip" x="59" y="21" text-anchor="middle">TypeScript</text>
+    </g>
+    <g transform="translate(468 236)">
+      <rect width="74" height="32" rx="16" fill="#161B22" stroke="#2CB67D" stroke-opacity=".6"/>
+      <text class="chip" x="37" y="21" text-anchor="middle">React</text>
+    </g>
+  </g>
+
+  <!-- Right: workflow -->
+  <g class="in d4">
+    <g fill="none" stroke="url(#wire)" stroke-width="2" stroke-opacity=".55">
+      <use xlink:href="#p1"/><use xlink:href="#p2"/><use xlink:href="#p3"/><use xlink:href="#p4"/>
+    </g>
+
+    <!-- moving data packets -->
+    <g fill="#B79CFF">
+      <circle r="4"><animateMotion dur="2.4s" repeatCount="indefinite" begin="0s"><mpath xlink:href="#p1"/></animateMotion></circle>
+      <circle r="4"><animateMotion dur="2.4s" repeatCount="indefinite" begin=".8s"><mpath xlink:href="#p2"/></animateMotion></circle>
+      <circle r="4"><animateMotion dur="2.4s" repeatCount="indefinite" begin="1.6s"><mpath xlink:href="#p3"/></animateMotion></circle>
+    </g>
+    <circle r="4.5" fill="#2CB67D"><animateMotion dur="1.2s" repeatCount="indefinite" begin=".4s"><mpath xlink:href="#p4"/></animateMotion></circle>
+
+    <!-- Input: ERP -->
+    <g transform="translate(690 64)">
+      <rect width="52" height="52" rx="12" fill="url(#nodeFill)" stroke="#7F5AF0" stroke-width="1.5"/>
+      <g fill="none" stroke="#B79CFF" stroke-width="2" stroke-linecap="round">
+        <ellipse cx="26" cy="17" rx="11" ry="4.5"/>
+        <path d="M15 17v18c0 2.5 5 4.5 11 4.5s11-2 11-4.5V17"/>
+        <path d="M15 26c0 2.5 5 4.5 11 4.5s11-2 11-4.5"/>
+      </g>
+      <text class="lbl" x="-12" y="31" text-anchor="end">ERP</text>
+    </g>
+    <!-- Input: Cloud -->
+    <g transform="translate(690 144)">
+      <rect width="52" height="52" rx="12" fill="url(#nodeFill)" stroke="#7F5AF0" stroke-width="1.5"/>
+      <path d="M17 35h19a7 7 0 0 0 0-14 10 10 0 0 0-19-2 8 8 0 0 0 0 16z" fill="none" stroke="#B79CFF" stroke-width="2" stroke-linejoin="round"/>
+      <text class="lbl" x="-12" y="31" text-anchor="end">Cloud</text>
+    </g>
+    <!-- Input: Web -->
+    <g transform="translate(690 224)">
+      <rect width="52" height="52" rx="12" fill="url(#nodeFill)" stroke="#7F5AF0" stroke-width="1.5"/>
+      <g fill="none" stroke="#B79CFF" stroke-width="2">
+        <circle cx="26" cy="26" r="12"/>
+        <ellipse cx="26" cy="26" rx="5.5" ry="12"/>
+        <path d="M14 26h24"/>
+      </g>
+      <text class="lbl" x="-12" y="31" text-anchor="end">Web</text>
+    </g>
+
+    <!-- Core: n8n + IA -->
+    <rect class="pulse" x="868" y="126" width="88" height="88" rx="20" fill="none" stroke="#7F5AF0" stroke-width="2"/>
+    <rect x="868" y="126" width="88" height="88" rx="20" fill="#7F5AF0" opacity=".35" filter="url(#glow)"/>
+    <rect x="868" y="126" width="88" height="88" rx="20" fill="url(#nodeFill)" stroke="url(#brand)" stroke-width="2.5"/>
+    <path d="M912 146 C 914 160, 918 164, 932 166 C 918 168, 914 172, 912 186 C 910 172, 906 168, 892 166 C 906 164, 910 160, 912 146 Z" fill="url(#brand)"/>
+    <circle cx="930" cy="148" r="3" fill="#2CB67D"/>
+    <text class="lblMain" x="912" y="238" text-anchor="middle">n8n + IA</text>
+
+    <!-- Output -->
+    <g transform="translate(1060 144)">
+      <rect width="52" height="52" rx="26" fill="#2CB67D" opacity=".3" filter="url(#glow)"/>
+      <rect width="52" height="52" rx="26" fill="url(#nodeFill)" stroke="#2CB67D" stroke-width="2"/>
+      <path d="M17 27l6 6 12-13" fill="none" stroke="#2CB67D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <text class="lbl" x="26" y="76" text-anchor="middle">Auto</text>
+    </g>
+  </g>
+</svg>
