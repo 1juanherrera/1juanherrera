@@ -1,6 +1,6 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=200&section=header&text=Juan%20Herrera&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20Automation%20%26%20AI%20Engineer&descAlignY=58&descSize=18" alt="header" />
+  <img src="./header.svg" alt="Juan Herrera — Full Stack Developer" width="100%" />
 </p>
 
 <p align="center">
@@ -13,7 +13,6 @@
   <a href="https://my-portfolio-peach-omega-53.vercel.app"><img src="https://img.shields.io/badge/Portafolio-7F5AF0?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/juanherreramu%C3%B1oz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/1juanherrera2"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=1juanherrera&style=for-the-badge&color=2CB67D&label=VISITAS" />
 </p>
 
 ---
@@ -24,7 +23,6 @@
 const juan = {
   rol: "Full Stack Developer · Automation & AI",
   ubicacion: "Colombia 🇨🇴",
-  trabajo: "Desarrollo e Innovación @ MERCO Grupo Logístico",
   especialidad: ["Automatización de procesos", "Integración con ERPs", "Agentes de IA"],
   stack: ["TypeScript", "React", "Node.js", "WordPress", "Python"],
   aprendiendo: ["NestJS", "Arquitecturas backend", "Ingeniería agéntica"],
@@ -71,6 +69,10 @@ const juan = {
 
 ---
 
+<!-- ============ PROYECTOS ============
+  Para actualizar: reemplaza o agrega filas en la tabla.
+  Formato: | emoji **Nombre** | Descripción corta (1 línea). |
+-->
 ## 🚀 Lo que he construido
 
 | Proyecto | Descripción |
@@ -81,27 +83,9 @@ const juan = {
 | 🌐 **Sitios WordPress con integraciones** | Webs corporativas del grupo con desarrollo a medida y conexión a sistemas internos. |
 
 > 📂 Todos mis proyectos están en **[mi portafolio](https://my-portfolio-peach-omega-53.vercel.app)**.
-
----
-
-## 📊 Estadísticas
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=1juanherrera&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F5AF0&icon_color=2CB67D&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1juanherrera&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F5AF0&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=1juanherrera&theme=tokyonight&hide_border=true&background=0D1117&ring=7F5AF0&fire=2CB67D&currStreakLabel=7F5AF0" />
-</p>
-
----
-
-## 💬 Pregúntame sobre
-
-`TypeScript` · `React` · `WordPress` · `n8n` · `Integraciones con ERPs` · `Agentes de IA` · `Claude Code`
+<!-- ============ FIN PROYECTOS ============ -->
 
 <!-- ============ FOOTER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,100:7F5AF0&height=120&section=footer" alt="footer" />
+  <img src="./footer.svg" alt="" width="100%" />
 </p>
