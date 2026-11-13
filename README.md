@@ -1,6 +1,6 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="./header.svg" alt="Juan Herrera — Full Stack Developer" width="100%" />
+  <img src="./banner.svg" alt="Juan Herrera — Full Stack Developer" width="100%" />
 </p>
 
 <p align="center">
@@ -11,27 +11,28 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## <img src="https://api.iconify.design/lucide/user-round.svg?color=%237F5AF0" width="26" height="26" /> Sobre mí
 
 ```ts
 const juan = {
   rol: "Full Stack Developer · Automation & AI",
-  ubicacion: "Colombia 🇨🇴",
+  ubicacion: "Colombia",
+  trabajo: "Desarrollo e Innovación @ MERCO Grupo Logístico",
   especialidad: ["Automatización de procesos", "Integración con ERPs", "Agentes de IA"],
   stack: ["TypeScript", "React", "Node.js", "WordPress", "Python"],
   aprendiendo: ["NestJS", "Arquitecturas backend", "Ingeniería agéntica"],
-  aficiones: ["⚽ Fútbol", "🎮 Videojuegos"],
+  aficiones: ["Fútbol", "Videojuegos"],
 };
 ```
 
-- ⚙️ Soy el **referente de automatizaciones** en mi empresa: flujos con **n8n**, integraciones con **ERPs**, servicios en la nube y procesamiento inteligente de documentos.
-- 🤖 Trabajo a diario con el ecosistema de IA (**Claude Code, Gemini, GCP**) y estoy en transición hacia **AI Engineering**.
-- 🧩 Construyo aplicaciones web completas: frontend (mi base más fuerte), backend y sitios **WordPress** a medida con integraciones a sistemas internos.
-- 🎨 Cuido el diseño: trabajo en **Figma** y aplico design systems a productos internos.
+- <img src="https://api.iconify.design/lucide/workflow.svg?color=%232CB67D" width="18" height="18" /> Soy el **referente de automatizaciones** en mi empresa: flujos con **n8n**, integraciones con **ERPs**, servicios en la nube y procesamiento inteligente de documentos.
+- <img src="https://api.iconify.design/lucide/bot.svg?color=%232CB67D" width="18" height="18" /> Trabajo a diario con el ecosistema de IA (**Claude Code, Gemini, GCP**) y estoy en transición hacia **AI Engineering**.
+- <img src="https://api.iconify.design/lucide/puzzle.svg?color=%232CB67D" width="18" height="18" /> Construyo aplicaciones web completas: frontend (mi base más fuerte), backend y sitios **WordPress** a medida con integraciones a sistemas internos.
+- <img src="https://api.iconify.design/lucide/palette.svg?color=%232CB67D" width="18" height="18" /> Cuido el diseño: trabajo en **Figma** y aplico design systems a productos internos.
 
 ---
 
-## 🛠️ Stack
+## <img src="https://api.iconify.design/lucide/layers.svg?color=%237F5AF0" width="26" height="26" /> Stack
 
 **Lenguajes & Frontend**
 
@@ -65,21 +66,22 @@ const juan = {
 
 <!-- ============ PROYECTOS ============
   Para actualizar: reemplaza o agrega filas en la tabla.
-  Formato: | emoji **Nombre** | Descripción corta (1 línea). |
+  Formato: | <img src="https://api.iconify.design/lucide/NOMBRE-ICONO.svg?color=%237F5AF0" width="20" height="20" /> **Nombre** | Descripción corta (1 línea). |
+  Iconos disponibles: https://lucide.dev/icons
 -->
-## 🚀 Lo que he construido
+## <img src="https://api.iconify.design/lucide/rocket.svg?color=%237F5AF0" width="26" height="26" /> Lo que he construido
 
 | Proyecto | Descripción |
 | --- | --- |
-| 🛃 **Suite de automatizaciones aduaneras** | Flujos n8n que conectan ERPs, nube y sistemas internos para eliminar trabajo manual en operaciones de aduana. |
-| 📄 **Extracción inteligente de facturas** | Pipeline IDP/OCR que lee facturas de importación con IA y las integra al ERP. |
-| 🎨 **Sistema de inventario y formulación de pinturas** | Plataforma para gestionar inventario, fórmulas y producción de una fábrica de pinturas. |
-| 🌐 **Sitios WordPress con integraciones** | Webs corporativas del grupo con desarrollo a medida y conexión a sistemas internos. |
+| <img src="https://api.iconify.design/lucide/ship.svg?color=%237F5AF0" width="20" height="20" /> **Suite de automatizaciones aduaneras** | Flujos n8n que conectan ERPs, nube y sistemas internos para eliminar trabajo manual en operaciones de aduana. |
+| <img src="https://api.iconify.design/lucide/file-scan.svg?color=%237F5AF0" width="20" height="20" /> **Extracción inteligente de facturas** | Pipeline IDP/OCR que lee facturas de importación con IA y las integra al ERP. |
+| <img src="https://api.iconify.design/lucide/paint-bucket.svg?color=%237F5AF0" width="20" height="20" /> **Sistema de inventario y formulación de pinturas** | Plataforma para gestionar inventario, fórmulas y producción de una fábrica de pinturas. |
+| <img src="https://api.iconify.design/lucide/globe.svg?color=%237F5AF0" width="20" height="20" /> **Sitios WordPress con integraciones** | Webs corporativas del grupo con desarrollo a medida y conexión a sistemas internos. |
 
-> 📂 Todos mis proyectos están en **[mi portafolio](https://my-portfolio-peach-omega-53.vercel.app)**.
+> <img src="https://api.iconify.design/lucide/folder-open.svg?color=%232CB67D" width="18" height="18" /> Todos mis proyectos están en **[mi portafolio](https://my-portfolio-peach-omega-53.vercel.app)**.
 <!-- ============ FIN PROYECTOS ============ -->
 
 <!-- ============ FOOTER ============ -->
 <p align="center">
-  <img src="./footer.svg" alt="" width="100%" />
+  <img src="./banner-footer.svg" alt="" width="100%" />
 </p>
